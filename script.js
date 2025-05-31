@@ -1,5 +1,5 @@
 function tampilkanSurprise() {
-  alert("🎈 Kejutan! Semoga semua impianmu tercapai tahun ini. Tetap semangat dan bahagia selalu! 🎂");
+  alert("🎈 Kejutan! Semoga semua impianmu tercapai tahun ini hehe. Tetap semangat dan bahagia selalu! 🎂");
 }
 
 // Konfeti sederhana
